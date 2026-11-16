@@ -3,6 +3,10 @@
 This folder is a compilation of general statistical techniques.
 They are not tied to any one project, and so sample datasets have been used in each case and may differ between scripts.
 
+## AI Disclosure
+
+**AI was used in a limited context to explain key statistical concepts. All AI-generated explanations were independently verified. No AI was used to generate code or this README file.**
+
 ## Techniques Covered
 
 See folders for more details.

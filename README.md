@@ -1,6 +1,6 @@
 # Example Portfolio
 
-This is an example portfolio for bioinformatics undergraduates. **It is meant purely as a starting point** - feel free to organize your portfolio however you like.
+This is an example portfolio for bioinformatics undergraduates. **It is meant purely as a STARTING point** - feel free to organize your portfolio however you like. I recommend tracking down some examples of good and bad portfolios to get a feel for what is typically done, and what is possible.
 
 No AI was used to generate the portfolio.
 
@@ -8,6 +8,8 @@ No AI was used to generate the portfolio.
 -  **Be clear:** stay organized, make everything easy to understand and follow.
 -  **Start small, build big:** for beginners, something is better than nothing. As you advance, start creating bigger projects that incorporate more complexity.
 -  **A few strong projects are better than dozens of simple ones.** Notice how the simpler projects here are grouped into categories called 'Statistics' and 'Machine Learning' - still included, but not cluttering up the main folder.
+
+Each folder has a readme with some tips, but please see the Statistics folder for an example of a good project README.
 
 ## Include README files
 
